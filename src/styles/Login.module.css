@@ -1,0 +1,14 @@
+.login__wrapper {
+    display: flex;
+    align-items: center;
+    min-height: calc(
+        100vh - (var(--margin-of-navbar) * 2) - (var(--padding-of-navbar) * 2) -
+            30px
+    );
+}
+
+.login__items {
+    padding: 50px;
+    background-color: var(--secondary-color);
+    border-radius: 15px;
+}
