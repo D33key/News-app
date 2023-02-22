@@ -1,3 +1,5 @@
+![](/public/prev.jpg)
+
 # News app
 
 This application, using a database, provides news.
