@@ -12,6 +12,7 @@ There are:
 -   You can select the number of items on the page
 -   Add or delete items
 -   Ability to open a specific post with comments
+-   Using React + JS
 
 ## To-do list
 
